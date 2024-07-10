@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Test Page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Notification Pop-up</title>
+<script>
+window.onload = function() {
+    alert('Hello! This is a notification pop-up.');
+};
+</script>
 </head>
 <body>
-    <h1>GitHub Pages Test</h1>
-    <p>If you see this page, your GitHub Pages setup is working correctly!</p>
-    <p>This page is hosted using GitHub Pages.</p>
+<!-- Your page content -->
 </body>
 </html>
